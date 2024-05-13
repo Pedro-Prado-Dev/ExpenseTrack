@@ -1,0 +1,7 @@
+Flask
+Jinja2
+SQLAlchemy
+Flask-CORS
+openpyxl
+Flask-Mail
+pytest
