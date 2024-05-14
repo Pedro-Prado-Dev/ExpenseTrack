@@ -1,0 +1,4 @@
+FROM postgres:latest
+
+# Instalar o cliente psql
+RUN apt-get update && apt-get install -y postgresql-client
