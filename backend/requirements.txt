@@ -4,4 +4,6 @@ SQLAlchemy
 Flask-CORS
 openpyxl
 Flask-Mail
+psycopg2-binary
+psycopg2
 pytest
